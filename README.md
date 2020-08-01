@@ -1,5 +1,5 @@
 # Mini-Dynamo
-Designed and developed a real time messaging application with multicast capability following Replicated Key-Value Storage- Simplefied Amazon Dynamo for the course CSE 586: Distributed Systems offered in Spring 2019 at University at Buffalo under the prof. Steve Ko. 
+Designed and developed a real time messaging application with multicast capability following Replicated Key-Value Storage- Simplefied Amazon Dynamo for the course CSE 586: Distributed Systems offered in Spring 2020 at University at Buffalo under the prof. Steve Ko. 
 
 ## Intoduction
 ### Replicated Key-Value Storage
@@ -43,8 +43,8 @@ The main goal is to provide both availability and linearizability at the same ti
 	- e. When a coordinator for a request fails and it does not respond to the request, its successor can be contacted next for the request.
 
 ## Testing
-For testing using grader please refer the following doc: https://docs.google.com/document/d/1VpTvRTb7TETtN59ovdfb1FMQDRXfq6H5Toh7L7Dq1P4/edit
+For testing using grader please refer the following doc: https://docs.google.com/document/d/1ww5O0ItL0KrDm3HPDLHcJQTkMDyJtdUVSKTZziVkIpk/edit
 
 ## Reference
-https://cse.buffalo.edu/~stevko/courses/cse486/spring19/lectures/28-dynamo.pdf
+https://cse.buffalo.edu/~stevko/courses/cse486/spring20/lectures/28-dynamo.pdf
 https://aws.amazon.com/dynamodb/
